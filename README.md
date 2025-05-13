@@ -44,7 +44,7 @@ ls
 cd Reporter
 ```
 ```
-Python3 InstaReporter.py
+Python InstaReporter.py
 ```
 
 
