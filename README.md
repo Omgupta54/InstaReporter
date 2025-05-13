@@ -41,7 +41,7 @@ git clone https://github.com/Omgupta54/instareport.py
 ls 
 ```
 ```
-cd Reporter
+cd instareport.py
 ```
 ```
 Python InstaReporter.py
