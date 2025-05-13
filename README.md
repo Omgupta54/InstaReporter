@@ -35,13 +35,13 @@ pkg install git
 pkg install python3
 ```
 ```
-git clone https://github.com/Omgupta54/Instareporter
+git clone https://github.com/Omgupta54/InstaReporter
 ```
 ```
 ls 
 ```
 ```
-cd Instareporter
+cd InstaReporter
 ```
 ```
 Python InstaReporter.py
