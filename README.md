@@ -59,7 +59,7 @@ pkg upgrade
 
 ## Authors
 
-DARK SQUAD (ANONYMOUS)
+HACKER VINAY (ANONYMOUS)
 
 * AUTHER: Vinay Gupta 
 * WHATSAPP: +91 9303760875
